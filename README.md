@@ -1,0 +1,5 @@
+# mario_kart
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/B-e-a-t-r-i-z/pen/YzjBwWe](https://codepen.io/B-e-a-t-r-i-z/pen/YzjBwWe).
+
+Um projeto que faz a classificação de corridas do Mario Kart entre o Mario e o Luigi.
