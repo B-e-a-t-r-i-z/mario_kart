@@ -49,10 +49,11 @@ function adicionarVitoria(jogador) {
 }
 
 function adicionarEmpate(jogador) {
-   lsJogadores[jogador].empate++;
-   lsJogadores[jogador].pontos++;
+  for (var i in lsJogadores) {
+   lsJogadores[i].empate++;
+   lsJogadores[i].pontos++;
    exibirNaTela(); 
-  
+  }
 }
 
 function adicionarDerrota(jogador) {
